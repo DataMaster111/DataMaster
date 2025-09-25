@@ -1,0 +1,20 @@
+.page {
+  flex: 1;
+  padding: 20px;
+  background: #f6f8fb;
+}
+
+.breadcrumb {
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 20px;
+}
+
+.form {
+  background: #fff;
+  padding: 20px;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
